@@ -3,9 +3,9 @@
 this is a minimal theme for zsh 
 
 ## Features
-* beautiful color
-* simple
-*git aware
+* Beautiful color
+* Simple
+* Git aware
   * green dot on clean 
   * yellow dot on dirty
   * show branch name
