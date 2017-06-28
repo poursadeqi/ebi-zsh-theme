@@ -2,13 +2,18 @@
 
 this is a minimal theme for zsh 
 
+## Features
+* beautiful color
+* simple
+*git aware
+  * green dot on clean 
+  * yellow dot on dirty
+  * show branch name
+
 ## Showcases
 
 ![alt text](showcases/1.png "ebi-zsh-theme showcase 1")
 ![alt text](showcases/2.png "ebi-zsh-theme showcase 2")
- You can notice when git folder is dirty and when its clean :)
- when git directory is clean you can see green circle in end of line
- when git directory have untracked file or include modified or deleted file you can see yellow circle in end of line
 ![alt text](showcases/3.png "ebi-zsh-theme showcase 3")
 
 ## Installation
