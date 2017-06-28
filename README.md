@@ -17,6 +17,9 @@ this is a minimal theme for zsh
 ![alt text](showcases/3.png "ebi-zsh-theme showcase 3")
 
 ## Installation
+[Install zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
+
+[Install oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh#basic-installation)
 
 Just copy the [`ebi.zsh-theme`](/ebi.zsh-theme) to your `~/.oh-my-zsh/custom/themes/` folder.
 You can use this command :
