@@ -18,7 +18,7 @@ this is a minimal theme for zsh
 
 ## Installation
 
-Just copy the [`ebi.zsh-theme`](/ebi.zsh-theme) to your `~/.oh-my-zsh/custom/themes/` folder.
+Just copy the [`ebi.zsh-theme`](/ebi.zsh-theme) to your `~/.oh-my-zsh/themes/` folder.
 You can use this command :
 ```shell
 curl https://raw.githubusercontent.com/poursadeqi/ebi-zsh-theme/master/ebi.zsh-theme > ~/.oh-my-zsh/themes/ebi.zsh-theme
